@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Environments](gym/README.md)
+* [Gym](gym/README.md)
    * aa
 
