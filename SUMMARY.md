@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Environments
+  * [Environments](gym/envs/README.md)
 
