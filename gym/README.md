@@ -12,7 +12,6 @@ OpenAI Gym是一套可用于开发和比较增强学习算法的工具包， 支
       observation, reward, done, info = env.step(action)  
       
       
-
 ### 我们提供环境，你提供算法
 你可以使用TensorFlow 或者Theano等已存在的算法库来实现agent。
 
