@@ -1,5 +1,6 @@
 # OpenAI Gym
 原文链接：[https://gym.openai.com/](https://gym.openai.com/)
+
 OpenAI Gym是一套可用于开发和比较强化学习算法的工具包， 支持教agents任何事情，比如走路和玩乒乓球、围棋等。
 
 ### 应用于强化学习任务的开源接口
@@ -10,7 +11,7 @@ OpenAI Gym是一套可用于开发和比较强化学习算法的工具包， 支
     observation = env.reset()  
     for _ in range(1000):  
       env.render()  
-      action = env.action_space.sample() *# your agent here (this takes  random actions)*  
+      action = env.action_space.sample() # your agent here (this takes  random actions)  
       observation, reward, done, info = env.step(action)  
 ```  
       
@@ -32,4 +33,4 @@ OpenAI Gym支持开发者上传测试结果、意见或建议，同时支持重�
     gym.upload("/tmp/gym-results", algorithm_id="random", api_key="sk_AKoNu8JTQdKnRmWOqGFPug")  
 ```
 ### 新的工作方法
-任何人都与我们合作，做出最佳的效果，那样你会知道每项任务的最新状态。
+与我们一起合作，做出最佳的效果，那样你会知道每项任务的最新状态。
