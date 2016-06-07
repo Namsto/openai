@@ -33,4 +33,12 @@ OpenAI Gym支持开发者上传测试结果、意见或建议，同时支持重�
     gym.upload("/tmp/gym-results", algorithm_id="random", api_key="sk_AKoNu8JTQdKnRmWOqGFPug")  
 ```
 ### 新的工作方法
-与我们一起合作，做出最佳的效果，那样你会知道每项任务的最新状态。
+与我们一起合作，做出最佳的效果，那样你会知道每项任务的最新状态。  
+
+
+开始训练自己的agents  
+先阅读文档，下载工具包，然后就可以开始训练agents了。  
+[查看文档](https://gym.openai.com/docs)
+
+环境  
+[查看最好的方案](https://gym.openai.com/docs)  
